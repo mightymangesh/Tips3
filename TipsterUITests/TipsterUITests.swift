@@ -1,10 +1,7 @@
 //
 //  TipsterUITests.swift
 //  TipsterUITests
-//
-//  Created by Rohan Raval on 12/29/15.
-//  Copyright © 2015 rohan. All rights reserved.
-//
+
 
 import XCTest
 
